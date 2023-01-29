@@ -1,3 +1,3 @@
 # "Writer's Brick" Build Guide
 
-(Link to a blog post coming soon)
+See here: https://spencerenglish.net/articles/20230126_tenet_brick/
