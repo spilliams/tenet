@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "random-keyboard-parts.pretty-master")(type "KiCad")(uri "/Users/spencer/spilliams/tenet/PCB/random-keyboard-parts.pretty-master")(options "")(descr ""))
+  (lib (name "Kailh_Choc")(type "KiCad")(uri "/Users/spencer/spilliams/tenet/PCB/MX_Alps_Hybrid-master/Kailh_Choc.pretty")(options "")(descr ""))
+  (lib (name "keyswitches.pretty-master")(type "KiCad")(uri "/Users/spencer/spilliams/tenet/PCB/keyswitches.pretty-master")(options "")(descr ""))
+)
