@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "/Users/spencer/spilliams/tenet/PCB/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "/Users/spencer/spilliams/tenet/PCB/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "kb2040")(type "KiCad")(uri "/Users/spencer/spilliams/tenet/PCB/kb2040-kicad-master/kb2040.kicad_sym")(options "")(descr ""))
 )
