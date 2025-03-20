@@ -71,31 +71,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "tenet-folio.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 1920,
-          "pos_y": 1092,
-          "size_x": 1920,
-          "size_y": 1068
-        }
-      },
-      {
-        "name": "tenet-folio.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 0,
-          "pos_y": 25,
-          "size_x": 1920,
-          "size_y": 1068
-        }
-      }
-    ]
+    "files": []
   }
 }
